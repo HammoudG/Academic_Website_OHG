@@ -14,7 +14,7 @@ social:
     link: o.hammoud-gallego@lse.ac.uk
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/omarhg
+    link: https://twitter.com/omarhgallego
   - icon: github
     icon_pack: fab
     link: https://github.com/hammoudg
