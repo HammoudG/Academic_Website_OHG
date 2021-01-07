@@ -50,4 +50,4 @@ As part of my research, I am also involved in a STICERD-funded project on the de
 
 Before joining the LSE, I worked as a consultant at the United Nations' International Fund for Agricultural Development (IFAD) in Italy, as well as for the United Nations' Higher Commissioner for Refugees (UNHCR) in Colombia.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Omar_Hammoud_Gallego.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Omar_Hammoud_Gallego_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
