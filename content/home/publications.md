@@ -21,16 +21,11 @@ design:
 ---
 ## Published
 
-
 Fernandez-Rodriguez, Nieves, Luisa Feline Freier, and Omar Hammoud-Gallego. 2020. *Importancia y Limitaciones de Las Normas Juridícas Para El Estudio de La Politica Migratoria En América Latina.* In Perspectivas Jurídicas de Las Migraciones Internacionales: Abordajes Teóricos y Metodológicos Contemporáneos, ed. Luciana Gandini. Mexico, D.F.: SUDIMER UNAM.
 
-## 
-Under Review
-
+## Under Review
 
 Hammoud-Gallego, Omar (Under Review \[2nd round], International Migration Review). *The Asylum Policies in Latin America (APLA) Database: Findings from an Expanded Methodology to Study Asylum Legislation in Latin America, 1990 - 2020.*
-
-
 
 ## Working Papers
 
