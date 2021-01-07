@@ -9,9 +9,6 @@ interests:
   - EU and Lat. Am. Politics
   - Migration and Asylum
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: o.hammoud-gallego@lse.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/omarhgallego
