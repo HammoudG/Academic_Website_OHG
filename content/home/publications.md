@@ -1,42 +1,39 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
-# This file represents a page section.
+widget_id: Publications
 headless: true
-
-# Order that this section appears on the page.
 weight: 90
-
-title: Recent Publications
-subtitle: ''
-
+title: Publications
+subtitle: ""
 content:
-  # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  # Choose how much pages you would like to display (0 = all pages)
   count: 5
-  # Choose how many pages you would like to offset by
   offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
     exclude_featured: true
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
   view: 4
 ---
+## Published
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+
+Fernandez-Rodriguez, Nieves, Luisa Feline Freier, and Omar Hammoud-Gallego. 2020. *Importancia y Limitaciones de Las Normas Juridícas Para El Estudio de La Politica Migratoria En América Latina.* In Perspectivas Jurídicas de Las Migraciones Internacionales: Abordajes Teóricos y Metodológicos Contemporáneos, ed. Luciana Gandini. Mexico, D.F.: SUDIMER UNAM.
+
+## 
+Under Review
+
+
+Hammoud-Gallego, Omar (Under Review \[2nd round], International Migration Review). *The Asylum Policies in Latin America (APLA) Database: Findings from an Expanded Methodology to Study Asylum Legislation in Latin America, 1990 - 2020.*
+
+
+
+## Working Papers
+
+Hammoud-Gallego, Omar & Feline Freier (2021). *'Low Cost' Refugee Protection: Explaining Latin American Asylum Policy Liberalisation.* 
+
+McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego. *Free to work in the EU? Immigrant Access to Employment in Austria, Germany, Ireland and the UK.*
