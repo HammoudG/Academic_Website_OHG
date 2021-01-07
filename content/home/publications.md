@@ -21,7 +21,7 @@ design:
 ---
 ## Published
 
-Fernandez-Rodriguez, Nieves, Luisa Feline Freier, and Omar Hammoud-Gallego. 2020. *Importancia y Limitaciones de Las Normas Juridícas Para El Estudio de La Politica Migratoria En América Latina.* In Perspectivas Jurídicas de Las Migraciones Internacionales: Abordajes Teóricos y Metodológicos Contemporáneos, ed. Luciana Gandini. Mexico, D.F.: SUDIMER UNAM.
+Fernandez-Rodriguez, Nieves, Luisa Feline Freier, and Omar Hammoud-Gallego. (2020). *Importancia y Limitaciones de Las Normas Juridícas Para El Estudio de La Politica Migratoria En América Latina.* In Perspectivas Jurídicas de Las Migraciones Internacionales: Abordajes Teóricos y Metodológicos Contemporáneos, ed. Luciana Gandini. Mexico, D.F.: SUDIMER UNAM.
 
 ## Under Review
 
@@ -31,4 +31,4 @@ Hammoud-Gallego, Omar (Under Review \[2nd round], International Migration Review
 
 Hammoud-Gallego, Omar & Feline Freier (2021). *'Low Cost' Refugee Protection: Explaining Latin American Asylum Policy Liberalisation.* 
 
-McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego. *Free to work in the EU? Immigrant Access to Employment in Austria, Germany, Ireland and the UK.*
+McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego (2021). *Free to work in the EU? Immigrant Access to Employment in Austria, Germany, Ireland and the UK.*
