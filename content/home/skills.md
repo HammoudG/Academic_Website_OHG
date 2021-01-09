@@ -27,11 +27,20 @@ feature:
 - description:
   icon: Overleaf
   icon_pack: ai
-  name: Oveleaf
+  name: Overleaf
 - description:
   icon: open-data
   icon_pack: ai
   name: Open Data
+- description:
+  icon: orcid
+  icon_pack: ai
+  name: Orcid
+- description: 
+  icon: Github
+  icon_pack: fas
+  name: Github
+
 
 
 # Uncomment to use emoji icons.
