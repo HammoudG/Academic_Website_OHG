@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: ""
+    image: "Lower_res_Omar_H_G.png"
 ---
