@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: Overleaf
+  icon: overleaf
   icon_pack: ai
   name: Overleaf
 - description:
@@ -37,7 +37,7 @@ feature:
   icon_pack: ai
   name: Orcid
 - description: 
-  icon: Github
+  icon: github
   icon_pack: fas
   name: Github
 
