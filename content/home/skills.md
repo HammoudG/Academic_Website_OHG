@@ -38,7 +38,7 @@ feature:
   name: Orcid
 - description: 
   icon: github
-  icon_pack: fas
+  icon_pack: fab
   name: Github
 
 
