@@ -41,7 +41,7 @@ highlight_name: false
 ---
 Hi! Thanks for visiting my website. 
 
-I am a researcher and data scientist at the Department of Government of The London School of Economics and Political Science (LSE). My work focuses on the development and the effects of migration and refugee policies. In addition to my research, over the last two years I have taught various seminars at the LSE, including 'International Migration, Public Policy and Social Integration', 'Politics and Institutions in Europe', and 'Introduction to Political Science'.
+I am a researcher and social data scientist at the Department of Government of The London School of Economics and Political Science (LSE). My work focuses on the development and the effects of migration and refugee policies. In addition to my research, over the last two years I have taught various seminars at the LSE, including 'International Migration, Public Policy and Social Integration', 'Politics and Institutions in Europe', and 'Introduction to Political Science'.
 
 As part of my research, I am also involved in a STICERD-funded project on the development of migrants' access to employment across selected European countries over the last 30 years, together with Eiko Thielemann and Patrick McGovern. Recently, I have also published a data set with codified information on the refugee policies of 19 Latin American countries over the last 30 years. The dataset is available as an R-package [here](https://github.com/HammoudG/APLA_Dataset). 
 
