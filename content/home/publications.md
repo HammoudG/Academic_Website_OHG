@@ -25,7 +25,9 @@ Fernandez-Rodriguez, Nieves, Luisa Feline Freier, and Omar Hammoud-Gallego. (202
 
 ## Under Review
 
-Hammoud-Gallego, Omar (Under Review \[2nd round], International Migration Review). *The Asylum Policies in Latin America (APLA) Database: Findings from an Expanded Methodology to Study Asylum Legislation in Latin America, 1990 - 2020.*
+Hammoud-Gallego, Omar (Under Review \[2nd round], International Migration Review). *The Asylum Policies in Latin America (APLA) Database: Findings from an Expanded Methodology to Study Asylum Legislation in Latin America, 1990 - 2020.* 
+
+*(Winner of the Best Paper Award in the Latin American Politics section of the European Consortium for Political Research Conference in 2019 in Poland, Wroclaw).*
 
 ## Working Papers
 
@@ -33,4 +35,4 @@ Hammoud-Gallego, Omar & Feline Freier (2021). *'Low Cost' Refugee Protection: Ex
 
 McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego (2021). *Free to work in the EU? Immigrant Access to Employment in Austria, Germany, Ireland and the UK.*
 
-Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Diff-In-Diff Approach on Venezuelan Displacement.* 
+Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Diff-In-Diff Approach on Venezuelan Displacement.*
