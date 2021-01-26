@@ -21,7 +21,10 @@ design:
 ---
 ## Published
 
-Fernandez-Rodriguez, Nieves, Luisa Feline Freier, and Omar Hammoud-Gallego. (2020). *Importancia y Limitaciones de Las Normas Juridícas Para El Estudio de La Politica Migratoria En América Latina.* In Perspectivas Jurídicas de Las Migraciones Internacionales: Abordajes Teóricos y Metodológicos Contemporáneos, ed. Luciana Gandini. Mexico, D.F.: SUDIMER UNAM.
+Fernandez-Rodriguez, Nieves, Luisa Feline Freier, and Omar Hammoud-Gallego. (2020). *Importancia y Limitaciones de Las Normas Juridícas Para El Estudio de La Politica Migratoria En América Latina.* In Abordajes Sociojurídicos Contemporáneos para el Estudio de las Migraciones
+Internacionales., ed. Luciana Gandini. Mexico, D.F.: SUDIMER UNAM. ISBN: 978-607-30-3880-5
+
+
 
 ## Under Review
 
