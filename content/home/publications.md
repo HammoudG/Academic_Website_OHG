@@ -30,11 +30,13 @@ Internacionales., ed. Luciana Gandini. Mexico, D.F.: SUDIMER UNAM. ISBN: 978-607
 
 Hammoud-Gallego, Omar (Under Review \[2nd round], International Migration Review). *The Asylum Policies in Latin America (APLA) Database: Findings from an Expanded Methodology to Study Asylum Legislation in Latin America, 1990 - 2020.* 
 
-*(Winner of the Best Paper Award in the Latin American Politics section of the European Consortium for Political Research Conference in 2019 in Poland, Wroclaw).*
+*\- (Winner of the Best Paper Award in the Latin American Politics section of the European Consortium for Political Research Conference in 2019 in Poland, Wroclaw).*
+
+Hammoud-Gallego, Omar & Feline Freier (Under Review, World Politics). *'Low Cost' Refugee Protection: Explaining Latin American Asylum Policy Liberalisation.* 
+
+
 
 ## Working Papers
-
-Hammoud-Gallego, Omar & Feline Freier (2021). *'Low Cost' Refugee Protection: Explaining Latin American Asylum Policy Liberalisation.* 
 
 McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego (2021). *Free to work in the EU? Immigrant Access to Employment in Austria, Germany, Ireland and the UK.*
 
