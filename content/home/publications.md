@@ -34,6 +34,6 @@ Hammoud-Gallego, Omar & Feline Freier (Under Review, World Politics). *'Low Cost
 
 ## Working Papers
 
-McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego (2021). *Free to work in the EU? Immigrant Access to Employment in Austria, Germany, Ireland and the UK.*
+McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego (2021). *Immigrant Labour Market Access, Varieties of Capitalism and the Limits of EU Policy Harmonisation.*
 
 Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Diff-In-Diff Approach on Venezuelan Displacement.*
