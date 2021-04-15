@@ -37,3 +37,7 @@ Hammoud-Gallego, Omar & Feline Freier (Under Review, World Politics). *'Low Cost
 McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego (2021). *Immigrant Labour Market Access, Varieties of Capitalism and the Limits of EU Policy Harmonisation.*
 
 Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Diff-In-Diff Approach on Venezuelan Displacement.*
+
+## Blog Articles 
+
+Hammoud-Gallego, Omar (2021).  [Here to stay: Latin America must face up to the reality of long-term Venezuelan migration.](https://blogs.lse.ac.uk/latamcaribbean/2021/04/13/here-to-stay-latin-america-must-face-up-to-the-reality-of-long-term-venezuelan-migration/) The London School of Economics, Latin American and Caribbean Centre Blog.
