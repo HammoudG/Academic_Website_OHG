@@ -40,4 +40,4 @@ Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Mig
 
 ## Blog Articles 
 
-Hammoud-Gallego, Omar (2021).  [Here to stay: Latin America must face up to the reality of long-term Venezuelan migration.](https://blogs.lse.ac.uk/latamcaribbean/2021/04/13/here-to-stay-latin-america-must-face-up-to-the-reality-of-long-term-venezuelan-migration/) The London School of Economics, Latin American and Caribbean Centre Blog.
+Hammoud-Gallego, Omar (April 13th 2021).  [Here to stay: Latin America must face up to the reality of long-term Venezuelan migration.](https://blogs.lse.ac.uk/latamcaribbean/2021/04/13/here-to-stay-latin-america-must-face-up-to-the-reality-of-long-term-venezuelan-migration/) The London School of Economics, Latin American and Caribbean Centre Blog.
