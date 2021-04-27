@@ -38,6 +38,8 @@ McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego (2021). *Immigrant Lab
 
 Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Diff-In-Diff Approach on Venezuelan Displacement.*
 
-## Blog Articles 
+## Blog Articles
 
 Hammoud-Gallego, Omar (April 13th 2021).  [Here to stay: Latin America must face up to the reality of long-term Venezuelan migration.](https://blogs.lse.ac.uk/latamcaribbean/2021/04/13/here-to-stay-latin-america-must-face-up-to-the-reality-of-long-term-venezuelan-migration/) The London School of Economics, Latin American and Caribbean Centre Blog.
+
+Hammoud-Gallego, Omar (April 23th 2021).  Aquí para quedarse: América Latina necesita enfrentar la realidad de la migración venezolana a largo plazo.[](https://blogs.lse.ac.uk/latamcaribbean/2021/04/23/aqui-para-quedarse-america-latina-necesita-enfrentar-la-realidad-de-la-migracion-venezolana-a-largo-plazo/) The London School of Economics, Latin American and Caribbean Centre Blog.
