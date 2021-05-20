@@ -32,11 +32,11 @@ Hammoud-Gallego, Omar (Under Review \[R&R], International Migration Review). A L
 
 Hammoud-Gallego, Omar & Feline Freier (Under Review, World Politics). *'Low Cost' Refugee Protection: Explaining Latin American Asylum Policy Liberalisation.* 
 
+Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Difference-In-Differences Approach on Venezuelan Displacement.*
+
 ## Working Papers
 
 McGovern, Patrick, Eiko Thielemann & Omar Hammoud-Gallego (2021). *Immigrant Labour Market Access, Varieties of Capitalism and the Limits of EU Policy Harmonisation.*
-
-Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Diff-In-Diff Approach on Venezuelan Displacement.*
 
 ## Blog Articles
 
