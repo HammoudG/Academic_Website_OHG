@@ -24,11 +24,14 @@ design:
 Fernandez-Rodriguez, Nieves, Luisa Feline Freier, and Omar Hammoud-Gallego. (2020). *Importancia y Limitaciones de Las Normas Juridícas Para El Estudio de La Politica Migratoria En América Latina.* In Abordajes Sociojurídicos Contemporáneos para el Estudio de las Migraciones
 Internacionales., ed. Luciana Gandini. Mexico, D.F.: SUDIMER UNAM. ISBN: 978-607-30-3880-5
 
+Hammoud-Gallego, Omar. 2021. (*forthcoming*). A Liberal Region in a World of Closed Borders? The Liber-
+alization of Asylum Policies in Latin America, 1990 - 2020, **International Migration Review**.
+
+*\- (Winner of the Best Paper Award in the Latin American Politics section of the European Consortium for Political Research Conference in 2019 in Poland, Wroclaw).*
+
+
+
 ## Under Review
-
-Hammoud-Gallego, Omar (Under Review \[R&R], International Migration Review). A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990-2020.
-
-*(Winner of the Best Paper Award in the Latin American Politics section of the European Consortium for Political Research Conference in 2019 in Poland, Wroclaw).*
 
 Hammoud-Gallego, Omar & Feline Freier (Under Review, World Politics). *'Low Cost' Refugee Protection: Explaining Latin American Asylum Policy Liberalisation.* 
 
