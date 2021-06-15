@@ -1,6 +1,7 @@
 ---
 title: Omar Hammoud Gallego
-role: PhD Candidate at the LSE
+role: "PhD Candidate at the LSE/Incoming Fellow in Political Science and Public
+  Policy "
 avatar_filename: lower_res_omar_h_g.png
 bio: My research interests include Public Policy, EU and Latin American
   politics, especially concerning the fields of migration and asylum.
