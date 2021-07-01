@@ -30,9 +30,9 @@ Internacionales](https://play.google.com/store/books/details/Luciana_Gandini_Abo
 
 ## Under Review
 
-Hammoud-Gallego, Omar & Feline Freier (Under Review, World Politics). *'Low Cost' Refugee Protection: Explaining Latin American Asylum Policy Liberalisation.* 
+Hammoud-Gallego, Omar & Feline Freier (Under Review). *'Low Cost' Refugee Protection: Explaining Latin American Asylum Policy Liberalisation.* 
 
-Hammoud-Gallego, Omar (2021). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Difference-In-Differences Approach on Venezuelan Displacement.*
+Hammoud-Gallego, Omar (Under Review). *The Short-Term Effect of Visa Restrictions on Migrants’ Well-Being: A Difference-In-Differences Approach on Venezuelan Displacement.*
 
 ## Working Papers
 
