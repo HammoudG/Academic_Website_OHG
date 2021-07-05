@@ -21,7 +21,7 @@ design:
 ---
 ## Published
 
-{{< icon name="download" pack="fas" >}} Hammoud-Gallego, Omar. 2021. (*forthcoming*). {{< staticref "media/IMR_Paper_2021.pdf" "newtab" >}}A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990 - 2020{{< /staticref >}}., **International Migration Review**. ISSN 0197-9183 (In Press)
+{{< icon name="download" pack="fas" >}} Hammoud-Gallego, Omar. 2021. (*forthcoming*). {{< staticref "media/IMR_Paper_2021.pdf" "newtab" >}}A Liberal Region in a World of Closed Borders? The Liberalization of Asylum Policies in Latin America, 1990 - 2020{{< /staticref >}}., **International Migration Review**. ISSN 0197-9183 (In Press) **\[Open Access]**
 
 \- Winner of the Best Paper Award in the Latin American Politics section of the European Consortium for Political Research Conference in 2019 in Poland, Wroclaw. 
 
